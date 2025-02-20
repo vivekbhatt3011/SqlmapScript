@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/1e5c7797-985d-4549-9cf7-36e7c2f1be19)
+
 Here's a description you can use for a GitHub repository containing an **SQLMap automation script**:  
 
 ---
@@ -17,7 +19,7 @@ This script automates SQL injection testing using [SQLMap](https://github.com/sq
 ```bash
 python sqlmap_auto.py -u "http://example.com/vuln.php?id=1" --dbs
 ```  
-
+![image](https://github.com/user-attachments/assets/da5534cd-326f-4b0d-8771-b6cfad8c2697)
 ## Requirements  
 - Python 3.x  
 - SQLMap installed (`git clone https://github.com/sqlmapproject/sqlmap.git`)  
